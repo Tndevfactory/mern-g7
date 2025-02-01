@@ -6,4 +6,4 @@
 
 ### REACT-JS v18
 
-### modified on branch develop
+### modified on branch develop and merged on master
